@@ -1,0 +1,7 @@
+cd ~/
+ls
+cd ragog
+ls
+cd ~/
+ls --help
+ls -R
